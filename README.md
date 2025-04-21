@@ -1,4 +1,4 @@
-#Financial Time-Series Anomaly Detection
+# Financial Time-Series Anomaly Detection
 Objective: Build a tool to identify anomalies in stock price trends to detect unusual activities or
 market manipulations.
 
